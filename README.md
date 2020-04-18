@@ -13,4 +13,4 @@ Here is a graph based on the training of a neural network:<br>
 ![Result of the neural network training](images/result.png)
 
 
-And yes. I am from Russia.
+And yes. I'm from Russia. Therefore, report is in Russian.
