@@ -1,5 +1,6 @@
 # Fashion mnist neural network.
 Link to Google Colab: https://colab.research.google.com/drive/1ZfQObWxElodtrSK7tnXs265AReklAZ_V
+Link to neural network report: https://docs.google.com/document/d/1zshGKhwLwFHIes4PLYLj8oK0HblVvd3v-zyWRu365m8/edit?usp=sharing
 
 ## Description
 This repository presents a Jupyter laptop demonstrating a convolutional neural network model that I built to classify images for the Fashion MNIST dataset.
@@ -10,3 +11,6 @@ Image pattern<br>
 We were able to achieve accuracy of 0.91.
 Here is a graph based on the training of a neural network:<br>
 ![Result of the neural network training](images/result.png)
+
+
+And yes. I am from Russia.
