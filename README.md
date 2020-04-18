@@ -1,5 +1,5 @@
 # Fashion mnist neural network.
-Link to Google Colab: https://colab.research.google.com/drive/1ZfQObWxElodtrSK7tnXs265AReklAZ_V
+Link to Google Colab: https://colab.research.google.com/drive/1ZfQObWxElodtrSK7tnXs265AReklAZ_V<br>
 Link to neural network report: https://docs.google.com/document/d/1zshGKhwLwFHIes4PLYLj8oK0HblVvd3v-zyWRu365m8/edit?usp=sharing
 
 ## Description
